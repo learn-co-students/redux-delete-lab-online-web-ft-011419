@@ -4,7 +4,6 @@ class Band extends Component {
 
 
   render() {
-    console.log(this.props.band)
     return(
       <div>
         <li>{this.props.band.name}</li>
