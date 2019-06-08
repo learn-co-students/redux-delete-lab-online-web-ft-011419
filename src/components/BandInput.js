@@ -33,6 +33,6 @@ class BandInput extends Component {
       </div>
     );
   }
-};
+}
 
 export default BandInput;
